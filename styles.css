@@ -67,7 +67,7 @@ li.matchdrag.copy {
     margin: 0;
     padding: 0.25rem;
     width: 35%;
-    max-height:23.75rem;
+    max-height: fit-content;
 }
 
 .ddmatch .draghomes li {
